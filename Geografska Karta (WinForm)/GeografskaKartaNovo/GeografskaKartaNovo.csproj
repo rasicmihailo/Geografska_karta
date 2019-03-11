@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1565C33-BBDA-4C0A-899C-9822719AA284}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GeografskaKartaNovo</RootNamespace>
+    <AssemblyName>GeografskaKartaNovo</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.1.2\lib\net461\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.1.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.1.1\lib\net461\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.2.1100\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.1.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.1.2\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.1.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.1.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DTO.cs" />
+    <Compile Include="DTOManager.cs" />
+    <Compile Include="Entiteti\GeografskiObjekat.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\Koordinate.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\LinijskiObjekat.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\ListaVrhova.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\PovrsinskiObjekat.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\SadrziGeog.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\SadrziLin.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\SadrziTac.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\TackastiObjekat.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Entiteti\Znamenitost.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajGeografskiObjekat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajGeografskiObjekat.Designer.cs">
+      <DependentUpon>MFormDodajAzurirajGeografskiObjekat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGeografskiObjekti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGeografskiObjekti.Designer.cs">
+      <DependentUpon>FormGeografskiObjekti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPovrsinskiObjekti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPovrsinskiObjekti.Designer.cs">
+      <DependentUpon>FormPovrsinskiObjekti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLinijskiObjekti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLinijskiObjekti.Designer.cs">
+      <DependentUpon>FormLinijskiObjekti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUzvisenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUzvisenje.Designer.cs">
+      <DependentUpon>FormUzvisenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVodnaPovrsina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVodnaPovrsina.Designer.cs">
+      <DependentUpon>FormVodnaPovrsina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\GeografskiObjekatMapiranje.cs" />
+    <Compile Include="Mapiranja\KoordinateMapiranje.cs" />
+    <Compile Include="Mapiranja\LinijskiObjekatMapiranje.cs" />
+    <Compile Include="Mapiranja\ListaVrhovaMapiranje.cs" />
+    <Compile Include="Mapiranja\PovrsinskiObjekatMapiranje.cs" />
+    <Compile Include="Mapiranja\SadrziGeogMapiranje.cs" />
+    <Compile Include="Mapiranja\SadrziLinMapiranje.cs" />
+    <Compile Include="Mapiranja\SadrziTacMapiranje.cs" />
+    <Compile Include="Mapiranja\TackastiObjekatMapiranje.cs" />
+    <Compile Include="Mapiranja\ZnamenitostMapiranje.cs" />
+    <Compile Include="MFormDodajAzurirajLinijskiObjekat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajLinijskiObjekat.Designer.cs">
+      <DependentUpon>MFormDodajAzurirajLinijskiObjekat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajPovrsinskiObjekti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajPovrsinskiObjekti.Designer.cs">
+      <DependentUpon>MFormDodajAzurirajPovrsinskiObjekti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajTackastiObjekat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajTackastiObjekat.Designer.cs">
+      <DependentUpon>MFormDodajAzurirajTackastiObjekat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajUzvisenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajUzvisenje.Designer.cs">
+      <DependentUpon>MFormDodajAzurirajUzvisenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajVodnaPovrsina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFormDodajAzurirajVodnaPovrsina.Designer.cs">
+      <DependentUpon>MFormDodajAzurirajVodnaPovrsina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pocetna.Designer.cs">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTackastiObjekti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTackastiObjekti.Designer.cs">
+      <DependentUpon>FormTackastiObjekti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFormDodajAzurirajGeografskiObjekat.resx">
+      <DependentUpon>MFormDodajAzurirajGeografskiObjekat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGeografskiObjekti.resx">
+      <DependentUpon>FormGeografskiObjekti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPovrsinskiObjekti.resx">
+      <DependentUpon>FormPovrsinskiObjekti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLinijskiObjekti.resx">
+      <DependentUpon>FormLinijskiObjekti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUzvisenje.resx">
+      <DependentUpon>FormUzvisenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVodnaPovrsina.resx">
+      <DependentUpon>FormVodnaPovrsina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFormDodajAzurirajLinijskiObjekat.resx">
+      <DependentUpon>MFormDodajAzurirajLinijskiObjekat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFormDodajAzurirajPovrsinskiObjekti.resx">
+      <DependentUpon>MFormDodajAzurirajPovrsinskiObjekti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFormDodajAzurirajTackastiObjekat.resx">
+      <DependentUpon>MFormDodajAzurirajTackastiObjekat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFormDodajAzurirajUzvisenje.resx">
+      <DependentUpon>MFormDodajAzurirajUzvisenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFormDodajAzurirajVodnaPovrsina.resx">
+      <DependentUpon>MFormDodajAzurirajVodnaPovrsina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pocetna.resx">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTackastiObjekti.resx">
+      <DependentUpon>FormTackastiObjekti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

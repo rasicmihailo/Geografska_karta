@@ -1,0 +1,470 @@
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+C:\Users\Aleksandar\Desktop\VS17_proj\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Downloads\GeografskaKartaNovo - Copy - Copy - Copy\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 5\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\Desna tri dugmeta\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb
+C:\Users\Aleksandar\Desktop\Sistemi Baza Podataka\Projekat\GeografskaKartaNovo 6\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojAssemblyReference.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\GeografskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\Koordinate.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\LinijskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\ListaVrhova.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\PovrsinskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziGeog.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziLin.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\SadrziTac.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\TackastiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Entiteti\Znamenitost.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\FluentNHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Iesi.Collections.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\NHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Antlr3.Runtime.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\FluentNHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Iesi.Collections.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\NHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\bin\Debug\Remotion.Linq.EagerFetching.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csprojResolveAssemblyReference.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Form1.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajGeografskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormGeografskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormLinijskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajLinijskiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajPovrsinskiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajTackastiObjekat.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajUzvisenje.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.MFormDodajAzurirajVodnaPovrsina.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Pocetna.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.FormTackastiObjekti.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.Properties.Resources.resources
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.GenerateResource.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CoreCompileInputs.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.csproj.CopyComplete
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\3 Desktop aplikacija\GeografskaKartaNovo\GeografskaKartaNovo\obj\Debug\GeografskaKartaNovo.pdb

@@ -1,0 +1,242 @@
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\GeografskiObjekat.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\Koordinate.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\LinijskiObjekat.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\ListaVrhova.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\PovrsinskiObjekat.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\SadrziGeog.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\SadrziLin.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\SadrziTac.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\TackastiObjekat.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Entiteti\Znamenitost.cs
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\ApplicationInsights.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Web.dll.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Web.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Web.pdb
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\csc.exe
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\csc.exe.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\csc.rsp
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\csi.exe
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\csi.exe.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\csi.rsp
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.AppContext.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Console.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\vbc.exe
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\vbc.exe.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\vbc.rsp
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Antlr3.Runtime.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\GeografskaKartaNovo.exe
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.Web.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Newtonsoft.Json.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Helpers.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Http.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Mvc.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Optimization.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Razor.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.WebPages.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\WebGrease.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\NHibernate.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\FluentNHibernate.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Remotion.Linq.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Iesi.Collections.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\GeografskaKartaNovo.pdb
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\GeografskaKartaNovo.exe.config
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Newtonsoft.Json.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Helpers.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Http.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Mvc.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Optimization.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.Razor.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.WebPages.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Microsoft.AI.Web.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\NHibernate.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\FluentNHibernate.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Remotion.Linq.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Iesi.Collections.xml
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\obj\Debug\Web.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\obj\Debug\Web.pdb
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Oracle.ManagedDataAccess.dll
+C:\Users\rasicmihailo\Desktop\GeografskaKartaNovo\Web\bin\Antlr3.Runtime.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\GeografskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\Koordinate.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\LinijskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\ListaVrhova.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\PovrsinskiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\SadrziGeog.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\SadrziLin.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\SadrziTac.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\TackastiObjekat.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Entiteti\Znamenitost.cs
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\ApplicationInsights.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Web.dll.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Web.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Web.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\csc.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\csc.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\csc.rsp
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\csi.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\csi.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\csi.rsp
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.AppContext.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Collections.Immutable.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Console.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.IO.Compression.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.IO.FileSystem.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.IO.Pipes.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.AccessControl.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Claims.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Threading.Thread.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.ValueTuple.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.XPath.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\vbc.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\vbc.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\vbc.rsp
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\VBCSCompiler.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\roslyn\VBCSCompiler.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Antlr3.Runtime.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\FluentNHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\GeografskaKartaNovo.exe
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Iesi.Collections.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.DependencyCollector.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.Web.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.WindowsServer.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.ApplicationInsights.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Newtonsoft.Json.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\NHibernate.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Oracle.ManagedDataAccess.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Remotion.Linq.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Remotion.Linq.EagerFetching.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Net.Http.Formatting.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Helpers.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Http.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Http.WebHost.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Mvc.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Optimization.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Razor.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Deployment.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.WebPages.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Razor.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\WebGrease.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\GeografskaKartaNovo.pdb
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\GeografskaKartaNovo.exe.config
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Antlr3.Runtime.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\FluentNHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Iesi.Collections.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\NHibernate.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Remotion.Linq.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Remotion.Linq.EagerFetching.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Newtonsoft.Json.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Net.Http.Formatting.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Helpers.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Http.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Http.WebHost.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Mvc.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Optimization.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.Razor.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.WebPages.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Deployment.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\System.Web.WebPages.Razor.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.ApplicationInsights.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.DependencyCollector.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.WindowsServer.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\bin\Microsoft.AI.Web.xml
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\obj\Debug\Web.csproj.CopyComplete
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\obj\Debug\Web.dll
+G:\Fax\III\VI sem\Sistemi baza podataka\Geografska karta\4 Web aplikacija\GeografskaKartaNovo\Web\obj\Debug\Web.pdb
